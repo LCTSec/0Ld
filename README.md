@@ -1,6 +1,8 @@
 ## 0wLtoolkid
-0Ld (0wL toolkid) Tools hanya untuk bersenang-senang dan untuk pentest InfoGathering
+0Ld (0wL toolkid) Tools hanya untuk bersenang-senang dan untuk pentest InfoGathering. 
+
 ° 90% Unfaedah
+
 ° 10% Lumayan Berfaedah
 
 ## Screenshot
