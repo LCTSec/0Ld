@@ -6,5 +6,5 @@
 ° 10% Lumayan Berfaedah
 
 ## Screenshot
-<img src/module="0Ld1.jpg"/>
+<img src="0Ld1.jpg"/>
 <img src="0Ld2.jpg"/>
