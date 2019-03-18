@@ -9,8 +9,8 @@
 $ apt install curl
 $ apt install git
 $ pkg install python2
-$ git clone https://github.com/ITermSec/0wLtoolkid.git
-$ cd 0wLtoolkid
+$ git clone https://github.com/ITermSec/0Ld.git
+$ cd 0Ld
 $ python2 install.py
 ```
 ## Screenshot
